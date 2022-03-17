@@ -1,4 +1,4 @@
-### Brody Gaudel👋
+### Hi, I'am Brody Gaudel👋
 **********************************************************************************************************************************************************************
 <!--
 **BrodyGaudel/BrodyGaudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ I'm a software engineer.
 - 🔭 I’m currently working on Java EE/Spring Boot for my internship.
 - 🌱 I’m currently learning amazing things
 - 📫 How to reach me: Mail, LinkdIn, Instagram
-- ⚡ Fun fact: Music, Travel
+- ⚡ Fun fact: Music, Blog, Travel
 *********************************************************************************************************************************************************************
 ### Languages, Frameworks and Tools
 
