@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm a software engineer.
-- 🔭 I’m currently working on Java EE/Spring Boot for my internship.
-- 🌱 I’m currently learning amazing things
-- 📫 How to reach me: Mail, LinkdIn, Instagram
-- ⚡ Fun fact: Music, Blog, Travel
+### Je suis ingénieur en Informatique, spécialisé en Génie Logiciel.
+
 *********************************************************************************************************************************************************************
 ### Languages, Frameworks and Tools
 
