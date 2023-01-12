@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://media-exp1.licdn.com/dms/image/C4E22AQFrgK4yHA6eQQ/feedshare-shrink_2048_1536/0/1663758067485?e=2147483647&v=beta&t=VpjARbAeP-wbuD1Mp8eazQAwqg3vsmVh7c9pU2MfkMQ" width="40%"></p>
 <div style=" font-size: medium; color: #447ff7" align=center>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Fatima+Zahra+Hasbi+%F0%9F%91%8B%F0%9F%8F%BB;+I+am+a+Software+Engineer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BC%F0%9F%92%BB;I+am+from+Morocco+%E2%9D%A4;I+am+passionate+about+Technologies;And+I+love+to+learn+new+things" alt="Fatima Zahra HASBI" width="650" height="55"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Brody+Gaudel+MOUNANGA+%F0%9F%91%8B%F0%9F%8F%BB;+I+am+a+Software+Engineer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BC%F0%9F%92%BB;I+am+from+Morocco+%E2%9D%A4;I+am+passionate+about+Software Engenering;And+I+love+to+learn+new+things" alt="Brody Gaudel" width="650" height="55"/>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -59,13 +59,6 @@ Here are some ideas to get you started:
     <a style="padding-right:8px;" href="https://fr.wikipedia.org/wiki/UML_(informatique)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/2560px-UML_logo.svg.png" height=150 width=200 /> </a>
 </p>
 
-### 🔹Mobile Developement:ㅤㅤㅤㅤㅤㅤㅤㅤ
-<p style="padding:10px;"> 
-    <a style="padding-right:8px;" href="https://flutter.dev" target="_blank"> <img src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png" height=110 width=150 /> </a>
-    <a style="padding-right:8px;" href="https://www.mobindustry.net/blog/how-to-implement-the-bloc-architecture-in-flutter-benefits-and-best-practices/#:~:text=Flutter%20BLoC%20pattern%20(Business%20Logic,at%20Google%20I%2FO%202019." target="_blank"> <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" height=100 width=160 /> </a>
-    <a style="padding-right:8px;" href="https://dart.dev" target="_blank"> <img src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2" height=120 width=170 /> </a>
-</p>
-
 ### 🔹Software engineering good practices:ㅤㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;"> 
     <a style="padding-right:8px;" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi9ov-ntIj7AhUT14UKHUC3BrQQFnoECA4QAw&url=https%3A%2F%2Fcloud.google.com%2Flearn%2Fwhat-is-microservices-architecture%3Fhl%3Dfr%23%3A~%3Atext%3DL%27architecture%2520de%2520microservices%2520(ou%2C%25C3%25A9l%25C3%25A9ment%2520ayant%2520ses%2520propres%2520responsabilit%25C3%25A9s.&usg=AOvVaw1p8BMKY3D9YvXSGai-tRuG" target="_blank"> <img src="https://www.hebergeurcloud.com/wp-content/uploads/2018/05/1-aVq0q9jjFx1R8DMVhKKFWQ.png" height=150 width=170 /> </a>
@@ -80,9 +73,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/BrodyGaudel">
-    <img src="https://github-readme-stats.vercel.app/api?username=FatimaZahraHASBI&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaZahraHASBI&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=FatimaZahraHASBI&theme=react-dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BrodyGaudel&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrodyGaudel&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=BrodyGaudel&theme=react-dark" />
 </a>
 </p>
 
@@ -92,7 +85,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-zahra-hasbi-610430201/) [![Email](https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasbi.fatimazahra04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brody-gaudel-mounanga-bouka-19165aa5/) [![Email](https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brodymounanga@gmail.com)
 
 
 </div>
