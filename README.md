@@ -24,34 +24,6 @@ Here are some ideas to get you started:
 
 # 🔥 Skills 🔥
 
-### 🔹Backend :ㅤ
-<p style="padding:10px;">
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" height=150 width=70/> 
-  </a>
-    <a href="https://spring.io/projects/spring-framework" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-framework-640ad1b04f7efa89e0f0f7353e6b5e02.svg?v=2" height=150 width=100 /> 
-    </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" height=150 width=100 /> 
-    </a>
-    <a href="https://spring.io/projects/spring-data" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-data-79cc203ed8c54191215a60f9e5dc638f.svg" height=110 width=100 />
-    </a>
-    <a href="https://spring.io/projects/spring-security" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-security-b712a4cdb778e72eb28b8c55ec39dbd1.svg" height=110 width=100 /> 
-    </a>
-    <a href="https://spring.io/projects/spring-cloud" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-cloud-81fe04ab129ab99da0e7c7115bb09920.svg" height=150 width=100 /> 
-    </a>
-</p>
-
-### 🔹Databases:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-<p style="padding:10px;"> 
-    <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" height=130 width=200/> </a>
-    <a style="padding:15px;" href="https://www.oracle.com/" target="_blank"> <img src="https://img.icons8.com/color/452/oracle-logo.png" height=130 width=200 /> </a>
-</p>
-
 ### 🔹Analysis and Modeling:ㅤㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;"> 
     <a style="padding-right:8px;" href="https://fr.wikipedia.org/wiki/UML_(informatique)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/2560px-UML_logo.svg.png" height=150 width=200 /> </a>
