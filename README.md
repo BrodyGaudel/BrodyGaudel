@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 
 ### 🔹Analysis and Modeling:ㅤㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;"> 
-    <a style="padding-right:8px;" href="https://www.techno-science.net/glossaire-definition/Merise-informatique.html" target="_blank"> <img src="https://louisvandevelde.be/image/merise.png" height=150 width=170 /> </a>
     <a style="padding-right:8px;" href="https://fr.wikipedia.org/wiki/UML_(informatique)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/2560px-UML_logo.svg.png" height=150 width=200 /> </a>
 </p>
 
@@ -68,15 +67,6 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-# 📈 Statistics 📈
-
-<p align="center">
-  <a href="https://github.com/BrodyGaudel">
-    <img src="https://github-readme-stats.vercel.app/api?username=BrodyGaudel&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrodyGaudel&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=BrodyGaudel&theme=react-dark" />
-</a>
-</p>
 
 
 <p  align="center">
