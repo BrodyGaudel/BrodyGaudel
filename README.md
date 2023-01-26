@@ -15,20 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ I'm a software engineer
-- 🔭 I’m currently working on Java, Spring Boot, Spring Cloud and Spring Security
-- 🌱 I’m currently learning amazing thing
-- 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-# 🔥 Skills 🔥
-
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+- ⚡ I'm a software engineer.
+- 🔭 I’m currently working on Java, Spring Boot, Spring Cloud and Spring Security.
+- 🌱 I’m currently learning amazing thing such as software architecture, distributed systems and cloud computing.
 
 
 
